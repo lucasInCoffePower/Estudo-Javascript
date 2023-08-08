@@ -1,2 +1,2 @@
-# Logica-de-Programacao
-Conteúdos para javascript estruturado
+# Estudo Javascript
+Conteúdos para javascript
